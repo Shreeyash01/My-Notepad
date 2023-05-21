@@ -43,7 +43,7 @@ Follow the steps below to get the application up and running on your system:
 2. Navigate to project directory:
 
    ```
-   cd mern-notes-app
+   cd My-Notepad
    ```
 3. Install the dependencies:
 - Open a new terminal window.
