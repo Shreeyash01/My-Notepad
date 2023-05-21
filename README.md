@@ -13,7 +13,7 @@ This is a full-stack web application designed to help users create and manage qu
 ## Technologies used
 - FrontEnd
   - React.js: JavaScript library for building user interfaces.
-  - React Router: Declarative routing for React applications.
+  <!-- - React Router: Declarative routing for React applications. -->
   - Axios: Promise-based HTTP client for making API requests.
   - Bootstrap: CSS framework for responsive design.
 - BackEnd
